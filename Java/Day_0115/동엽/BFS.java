@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main2178 {
+public class BFS {
 
 	public static class Pair {
 		int x, y;

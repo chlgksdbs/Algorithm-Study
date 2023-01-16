@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main1260 {
+public class BJ_1260 {
 	static ArrayList<Integer>[] a;
 	static boolean[] c;
 	public static void dfs(int x) {

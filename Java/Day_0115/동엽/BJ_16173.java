@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Main16173 {
+public class BJ_16173 {
 
 	static int[][] graph;
 	static boolean[][] visited;
