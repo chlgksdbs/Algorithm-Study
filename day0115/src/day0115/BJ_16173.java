@@ -24,17 +24,20 @@ public class BJ_16173 {
 				if (nx < 0 || ny < 0 || nx >= N || ny >= N || arr[nx][ny]==0)
 					continue;
 				if(nx==N-1 && ny==N-1) {
-					flag = 1; 
-					break;
+					System.out.println("HaruHaru");
+					return ;
+//					flag = 1; 
+//					break;
 				}
 				q.add(new Point(nx, ny));
 			}
 		}
-		if(flag == 1) {
-			System.out.println("HaruHaru");
-		}else {
-			System.out.println("Hing");			
-		}
+//		if(flag == 1) {
+//			System.out.println("HaruHaru");
+//		}else {
+//			System.out.println("Hing");			
+//		}
+		System.out.println("Hing");	
 	}
 
 	public static void main(String[] args) {
