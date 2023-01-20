@@ -49,4 +49,5 @@
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 01.15. (일) | 최준서 | [DFS / BFS](https://www.notion.so/BFS-DFS-9bf349a7159f48b78292b49b4621ca8f) |
 | 01.19. (목) | 최한윤 | [Binary Search (이진 탐색)](https://www.notion.so/Binary-Search-by-HanYoon-59ba55401ba44393a91de4357f81070a) |
+| 01.22. (일) | - | - |
 | 01.26. (목) | 염동엽 | [Dynamic Programming](https://www.notion.so/Dynamic-Programming-by-DongYoub-cf055f974af246aeae65050f6e8cec48) |
