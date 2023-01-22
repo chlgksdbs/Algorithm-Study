@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class BinarySearch_1 {
 	public static int binarySearch(int[] num, int num_size, int key) {
 		// 반복문으로 구현
 		int start = 0;			// 시작점

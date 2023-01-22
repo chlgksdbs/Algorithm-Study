@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.LinkedList;
 import java.awt.Point;
 
-public class Main {
+public class BJ_16173 {
     static int[] dx = {1, 0};
     static int[] dy = {0, 1};
 

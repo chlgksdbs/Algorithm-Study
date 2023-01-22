@@ -1,7 +1,7 @@
 import java.util.*;
 import java.awt.Point;
 
-public class miro {
+public class BJ_2178 {
     public static int n;
     public static int m;
     public static boolean[][] visited;
