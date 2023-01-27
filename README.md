@@ -44,6 +44,7 @@
   |     ├── 📄 BOJ_1000.java
   |     ├── 📄 SWEA_1000.java
   |     ├── 📄 PG_10000.java
+  |     ├── 📄 TC_JUNGOL_700.java
   └──  📂 김싸피
   |     ├── 📄 BOJ_1001.java
 📄 Readme.md
@@ -62,7 +63,7 @@ git commit -m "문제종류_번호.java"
 - SW Expert Academy : SWEA
 - BaekJoon Online Judge : BOJ
 - Programmers : PG
-- Other : TC
+- Other : TC_(SITENAME)
 ```
 <br/><br/>
 
