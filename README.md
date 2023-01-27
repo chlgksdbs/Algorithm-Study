@@ -62,6 +62,7 @@ git commit -m "문제종류_번호.java"
 - SW Expert Academy : SWEA
 - BaekJoon Online Judge : BOJ
 - Programmers : PG
+- Other : TC
 ```
 <br/><br/>
 
