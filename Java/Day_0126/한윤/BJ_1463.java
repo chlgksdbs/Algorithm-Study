@@ -1,4 +1,4 @@
-// 1로 만들기
+// BJ_1463 : 1로 만들기
 
 package algorithm;
 
