@@ -12,7 +12,7 @@
 | <img src="https://user-images.githubusercontent.com/96401350/212597569-20308fe6-0bc1-4c0d-b99f-28914d0fc5cb.png" width="100"> | <img src="https://user-images.githubusercontent.com/7029971/212665141-ef9d539f-6de2-4e7b-9c25-4b272533836e.JPG" width="100"/> | <img src="https://user-images.githubusercontent.com/96401350/212597592-77463fdd-3d57-478e-8817-4ec577102468.png" width="100"/> |
 |                              [👩 Lee HyoKyoung](https://github.com/HyoKyoung1004)                               |                              [👨 Youm DongYoub](https://github.com/champiuned12)                              |               [👨 Jung GyuSung](https://github.com/ramaking)                |
 
-<br/>
+<br/><br/>
 
 ## 🤙 Rules!
 
@@ -20,10 +20,6 @@
 
 **매주 목 19 : 30**<br>
 **매주 일 19 : 00**
-
-### 🏠 장소
-
-**Daily Cafe** or **Online**
 
 ### 📝 진행
 
@@ -39,22 +35,36 @@
 
 ### 📁 폴더 관리
 
-
-### ⭐️ 커밋 컨벤션
-
-  **1. 유형 기본문제**
 ```
-git commit -m "유형이름_숫자.java"
-[예시] BFS_1.java, BFS_2.java
+[예시]
+
+📂 Java
+  📂 Day_0119
+  └──  📂 최한윤
+  |     ├── 📄 BinarySearch_1.java
+  |     ├── 📄 BJ_1000.java
+  └──  📂 염동엽
+  |     ├── 📄 BJ_1001.java
+📄 Readme.md
 ```
 
-  **2. 과제 백준문제**
+### 📕 Commit Convetion
+> 해당 컨벤션을 지켜주세요.<br/>
+> 한 문제당 하나의 commit으로 진행해주세요.
+
 ```
 git commit -m "문제종류_번호.java"
-[예시] BJ_1000.java
-```
 
-<br/>
+[예시] BFS_1.java, BFS_2.java
+[예시] BJ_1000.java
+
+< 문제종류 >
+- Type Basic Problem : DFS, BFS, BinarySearch, DP ..
+- SW Expert Academy : SWEA
+- BaekJoon Online Judge : BJ
+- Programmers : PG
+```
+<br/><br/>
 
 ## 📅 Calendar
 ### 2023년 1월
@@ -62,7 +72,7 @@ git commit -m "문제종류_번호.java"
 | 날짜 (요일) | 발표자 |                                                                발표 제목                                                                |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 01.15. (일) | 최준서 | [DFS / BFS](https://www.notion.so/BFS-DFS-9bf349a7159f48b78292b49b4621ca8f) |
-| 01.19. (목) | 최한윤 | [Binary Search (이진 탐색)](https://www.notion.so/Binary-Search-by-HanYoon-59ba55401ba44393a91de4357f81070a) |
+| 01.19. (목) | 최한윤 | [Binary Search](https://www.notion.so/Binary-Search-by-HanYoon-59ba55401ba44393a91de4357f81070a) |
 | 01.22. (일) | - | - |
 | 01.26. (목) | 염동엽 | [Dynamic Programming](https://www.notion.so/Dynamic-Programming-by-DongYoub-cf055f974af246aeae65050f6e8cec48) |
-| 01.29. (일) | - | - |
+| 01.29. (일) | 이효경 | [Sorting](https://www.notion.so/Sorting-by-HyoKyoung-c960dc09a87e4525859308536ceb7314) |
