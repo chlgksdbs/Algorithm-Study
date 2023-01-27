@@ -41,10 +41,11 @@
 📂 Java
   📂 Day_0119
   └──  📂 최한윤
-  |     ├── 📄 BinarySearch_1.java
-  |     ├── 📄 BJ_1000.java
-  └──  📂 염동엽
-  |     ├── 📄 BJ_1001.java
+  |     ├── 📄 BOJ_1000.java
+  |     ├── 📄 SWEA_1000.java
+  |     ├── 📄 PG_10000.java
+  └──  📂 김싸피
+  |     ├── 📄 BOJ_1001.java
 📄 Readme.md
 ```
 
@@ -55,13 +56,11 @@
 ```
 git commit -m "문제종류_번호.java"
 
-[예시] BFS_1.java, BFS_2.java
-[예시] BJ_1000.java
+[예시] BOJ_1000.java
 
 < 문제종류 >
-- Type Basic Problem : DFS, BFS, BinarySearch, DP ..
 - SW Expert Academy : SWEA
-- BaekJoon Online Judge : BJ
+- BaekJoon Online Judge : BOJ
 - Programmers : PG
 ```
 <br/><br/>
