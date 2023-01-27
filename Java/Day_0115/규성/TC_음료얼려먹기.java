@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class DFS {
+public class TC_음료얼려먹기 {
 
     static int sum = 0;
     static char[][] iceStructure;
