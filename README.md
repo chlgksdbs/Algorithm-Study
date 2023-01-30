@@ -72,8 +72,8 @@ git commit -m "문제종류_번호.java"
 
 | 날짜 (요일) | 발표자 |                                                                발표 제목                                                                |
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| 01.15. (일) | 최준서 | [DFS / BFS](https://www.notion.so/BFS-DFS-9bf349a7159f48b78292b49b4621ca8f) |
-| 01.19. (목) | 최한윤 | [Binary Search](https://www.notion.so/Binary-Search-by-HanYoon-59ba55401ba44393a91de4357f81070a) |
+| 01.15. (일) | 최준서 | [DFS / BFS](https://www.notion.so/BFS-DFS-by-JunSeo-83a0434e454548be8f762019530902ab) |
+| 01.19. (목) | 최한윤 | [Binary Search](https://www.notion.so/Binary-Search-by-HanYoon-644b0076845c4515ad1740abf57e8a1a) |
 | 01.22. (일) | - | - |
-| 01.26. (목) | 염동엽 | [Dynamic Programming](https://www.notion.so/Dynamic-Programming-by-DongYoub-cf055f974af246aeae65050f6e8cec48) |
-| 01.29. (일) | 이효경 | [Sorting](https://www.notion.so/Sorting-by-HyoKyoung-c960dc09a87e4525859308536ceb7314) |
+| 01.26. (목) | 염동엽 | [Dynamic Programming](https://www.notion.so/Dynamic-Programming-by-DongYoub-eecd634946b642f8bd3a382a57ae5600) |
+| 01.29. (일) | 이효경 | [Sorting](https://www.notion.so/Sorting-by-HyoKyoung-986a13244b9343f6a0d1eb47afe06d66) |
