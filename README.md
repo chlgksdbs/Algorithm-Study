@@ -74,7 +74,7 @@ git commit -m "문제종류_번호.java"
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 01.15. (일) | 최준서 | [DFS / BFS](https://www.notion.so/BFS-DFS-by-JunSeo-83a0434e454548be8f762019530902ab) |
 | 01.19. (목) | 최한윤 | [Binary Search](https://www.notion.so/Binary-Search-by-HanYoon-644b0076845c4515ad1740abf57e8a1a) |
-| 01.22. (일) | - | - |
+| 01.22. (일) | - | 설 연휴 |
 | 01.26. (목) | 염동엽 | [Dynamic Programming](https://www.notion.so/Dynamic-Programming-by-DongYoub-eecd634946b642f8bd3a382a57ae5600) |
 | 01.29. (일) | 이효경 | [Sorting](https://www.notion.so/Sorting-by-HyoKyoung-986a13244b9343f6a0d1eb47afe06d66) |
 
@@ -84,3 +84,4 @@ git commit -m "문제종류_번호.java"
 | :---------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 02.02. (목) | 정규성 | [Shortest Path](https://www.notion.so/Shortest-Path-by-GyuSung-949e2d9f6b274eb2b9496300c274014d) |
 | 02.05. (일) | 조해린 | [Mathematics](https://www.notion.so/Mathematics-by-HaeRin-0e98c75ae14145728252c5e1025ebbf3) |
+| 02.09. (목) | - | 각 발표자 별 문제 리뷰 시간 |
