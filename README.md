@@ -85,3 +85,4 @@ git commit -m "문제종류_번호.java"
 | 02.02. (목) | 정규성 | [Shortest Path](https://www.notion.so/Shortest-Path-by-GyuSung-949e2d9f6b274eb2b9496300c274014d) |
 | 02.05. (일) | 조해린 | [Mathematics](https://www.notion.so/Mathematics-by-HaeRin-0e98c75ae14145728252c5e1025ebbf3) |
 | 02.09. (목) | - | 각 발표자 별 문제 리뷰 시간 |
+| 02.12. (일) | 최준서 | [Tree](https://www.notion.so/Tree-by-junseo-d6af587fde1c4a339730e2e0d0a116dc) |
