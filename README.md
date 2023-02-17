@@ -86,3 +86,4 @@ git commit -m "문제종류_번호.java"
 | 02.05. (일) | 조해린 | [Mathematics](https://www.notion.so/Mathematics-by-HaeRin-0e98c75ae14145728252c5e1025ebbf3) |
 | 02.09. (목) | - | 각 발표자 별 문제 리뷰 시간 |
 | 02.12. (일) | 최준서 | [Tree](https://www.notion.so/Tree-by-junseo-d6af587fde1c4a339730e2e0d0a116dc) |
+| 02.16. (목) | - | 20230212 Study 코드 리뷰 |
