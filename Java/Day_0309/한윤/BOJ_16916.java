@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 public class BOJ_16916 {
 	
+	// 실패 함수
 	public static int[] makeTable(String pattern) {
 		
 		int size = pattern.length();
