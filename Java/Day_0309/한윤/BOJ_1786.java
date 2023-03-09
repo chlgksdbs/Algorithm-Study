@@ -65,7 +65,7 @@ public class BOJ_1786 {
 		String text = br.readLine(); // 탐색할 문자열
 		String pattern = br.readLine(); // 찾고자 하는 문자열
 		
-		KMP(text, pattern); // KMP 알고리즈 수행
+		KMP(text, pattern); // KMP 알고리즘 수행
 		
 		System.out.println(cnt);
 		System.out.println(sb);
