@@ -2,14 +2,16 @@
 
 ### SSAFY 9th 대전 5반 알고리즘 스터디
 
+<img src="https://user-images.githubusercontent.com/96401350/234848667-644f8460-70ac-4b4e-ad4e-f105a299dc6b.png" width="350" >
+
 <br/>
 
 ## 👪 Contributor
 
-| <img src="https://user-images.githubusercontent.com/96401350/212596753-f0fec7c5-ce47-44eb-9407-64a1bd40b53e.jpg" width="100"> | <img src="https://user-images.githubusercontent.com/96401350/212597143-e66133c2-3d72-42c8-beb9-76367534c279.png" width="100"> | <img src="https://user-images.githubusercontent.com/96401350/212597336-541c897e-240a-4c3e-8d98-2414c6ef1c37.jpg" width="100">
+| <img src="https://user-images.githubusercontent.com/96401350/212596753-f0fec7c5-ce47-44eb-9407-64a1bd40b53e.jpg" width="150"> | <img src="https://user-images.githubusercontent.com/96401350/212597143-e66133c2-3d72-42c8-beb9-76367534c279.png" width="150"> | <img src="https://user-images.githubusercontent.com/96401350/212597336-541c897e-240a-4c3e-8d98-2414c6ef1c37.jpg" width="150">
 |:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
 |              [👨 Choi HanYoon](https://github.com/chlgksdbs)              |           [👨 Choi JunSeo](https://github.com/wnstj7788)           |              [👩 Cho HaeRin](https://github.com/zosunny)              |
-| <img src="https://user-images.githubusercontent.com/96401350/212597569-20308fe6-0bc1-4c0d-b99f-28914d0fc5cb.png" width="100"> | <img src="https://user-images.githubusercontent.com/7029971/212665141-ef9d539f-6de2-4e7b-9c25-4b272533836e.JPG" width="100"/> | <img src="https://user-images.githubusercontent.com/96401350/212597592-77463fdd-3d57-478e-8817-4ec577102468.png" width="100"/> |
+| <img src="https://user-images.githubusercontent.com/96401350/212597569-20308fe6-0bc1-4c0d-b99f-28914d0fc5cb.png" width="150"> | <img src="https://user-images.githubusercontent.com/7029971/212665141-ef9d539f-6de2-4e7b-9c25-4b272533836e.JPG" width="150"/> | <img src="https://user-images.githubusercontent.com/96401350/212597592-77463fdd-3d57-478e-8817-4ec577102468.png" width="150"/> |
 |                              [👩 Lee HyoKyoung](https://github.com/HyoKyoung1004)                               |                              [👨 Youm DongYoub](https://github.com/champiuned12)                              |               [👨 Jung GyuSung](https://github.com/ramaking)                |
 
 <br/><br/>
